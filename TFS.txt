@@ -1,0 +1,16 @@
+Microsoft TFS - Team Foundation Server
+AGILE:
+PacktAgile - Agile planning tools: create a backlog, manage iterations, child work (User stories and their tasks), reprioritize work.
+Top Menu :Dashboard- Code -Work - Build & Release- Test.
+In Work Menu: Epic -> Feature -> User story -> Task -> Bug
+Iteration = sprint.
+'Parent Hide' feature will stop hierarchy, from Epic to US to tasks. There are only Userstories.
+Drag and drop user stories to repriortize them.
+Features, Stories in Left menu. In Stories are Iterations - Current, Future
+Drag and drop US into Iterations.
+Bugs are called Impediments.
+task board-scrum board-visual board to track work-backlog board- bring board in daily scrums-helpful for stakeholders
+SCRUM:
+In Scrum-PBI- Product Backlog items instead of US. Backlog items are Sprints. 
+PBI- Has create new card, add new task
+Board - sprint backlog
